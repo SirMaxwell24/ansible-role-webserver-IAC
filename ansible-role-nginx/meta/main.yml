@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: IAC_MySQL
+  author: SirMaxwell24
+  description: This role installs and configures nginx on Ubuntu
+  company: MD365IT
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - jammy
+  galaxy_tags:
+    - nginx
+    - webserver
+    - Ubuntu
+
+dependencies: []
